@@ -1,0 +1,212 @@
+
+==============================
+INDIVIDUAL RESULTS
+==============================
+
+---------- FOLD 1 ----------
+Board 47 | IoU: 0.3521 | Dice: 0.5208 | Precision: 0.3931 | Recall: 0.7712 | MSE: 0.1559 | MAE: 0.3275 | W-MAE: 0.3394 | Pixel Sim: 67.25% | Visual Sim SSIM: 13.61% | Pearson: 0.3219 | Top10 IoU: 0.1619 | Centroid Dist: 5.3905
+Board 48 | IoU: 0.6511 | Dice: 0.7887 | Precision: 0.6868 | Recall: 0.9260 | MSE: 0.0774 | MAE: 0.1774 | W-MAE: 0.1659 | Pixel Sim: 82.26% | Visual Sim SSIM: 53.49% | Pearson: 0.7782 | Top10 IoU: 0.1798 | Centroid Dist: 3.6881
+Board 49 | IoU: 0.5472 | Dice: 0.7073 | Precision: 0.5619 | Recall: 0.9543 | MSE: 0.0697 | MAE: 0.1929 | W-MAE: 0.1783 | Pixel Sim: 80.71% | Visual Sim SSIM: 53.98% | Pearson: 0.6440 | Top10 IoU: 0.1489 | Centroid Dist: 2.4168
+Board 50 | IoU: 0.3201 | Dice: 0.4850 | Precision: 0.3667 | Recall: 0.7159 | MSE: 0.1362 | MAE: 0.2943 | W-MAE: 0.3579 | Pixel Sim: 70.57% | Visual Sim SSIM: 17.34% | Pearson: 0.3713 | Top10 IoU: 0.1430 | Centroid Dist: 4.9051
+Board 51 | IoU: 0.5994 | Dice: 0.7495 | Precision: 0.6230 | Recall: 0.9405 | MSE: 0.0658 | MAE: 0.1753 | W-MAE: 0.1766 | Pixel Sim: 82.47% | Visual Sim SSIM: 56.67% | Pearson: 0.7683 | Top10 IoU: 0.1811 | Centroid Dist: 10.7217
+Board 52 | IoU: 0.5433 | Dice: 0.7040 | Precision: 0.5527 | Recall: 0.9696 | MSE: 0.0661 | MAE: 0.1800 | W-MAE: 0.1625 | Pixel Sim: 82.00% | Visual Sim SSIM: 56.00% | Pearson: 0.7307 | Top10 IoU: 0.1589 | Centroid Dist: 2.4758
+
+Fold 1 Average:
+Average IoU: 0.5022
+Average Dice/F1: 0.6592
+Average Precision: 0.5307
+Average Recall: 0.8796
+Average MSE: 0.0952
+Average MAE: 0.2246
+Average Weighted MAE: 0.2301
+Average Pixel Similarity: 77.54%
+Average Visual Similarity SSIM: 41.85%
+Average Pearson Corr: 0.6024
+Average Top-10% Hotspot IoU: 0.1623
+Average Centroid Distance: 4.9330
+
+---------- FOLD 2 ----------
+Board 47 | IoU: 0.7171 | Dice: 0.8352 | Precision: 0.7431 | Recall: 0.9533 | MSE: 0.0369 | MAE: 0.1034 | W-MAE: 0.1175 | Pixel Sim: 89.66% | Visual Sim SSIM: 73.09% | Pearson: 0.8946 | Top10 IoU: 0.6185 | Centroid Dist: 0.1313
+Board 48 | IoU: 0.6651 | Dice: 0.7989 | Precision: 0.7351 | Recall: 0.8748 | MSE: 0.0765 | MAE: 0.1424 | W-MAE: 0.1637 | Pixel Sim: 85.76% | Visual Sim SSIM: 61.08% | Pearson: 0.8155 | Top10 IoU: 0.6503 | Centroid Dist: 1.6994
+Board 49 | IoU: 0.1985 | Dice: 0.3312 | Precision: 0.3649 | Recall: 0.3032 | MSE: 0.1532 | MAE: 0.2623 | W-MAE: 0.3981 | Pixel Sim: 73.77% | Visual Sim SSIM: 15.33% | Pearson: 0.1394 | Top10 IoU: 0.1334 | Centroid Dist: 15.6562
+Board 50 | IoU: 0.6137 | Dice: 0.7606 | Precision: 0.6632 | Recall: 0.8916 | MSE: 0.0701 | MAE: 0.1306 | W-MAE: 0.1755 | Pixel Sim: 86.94% | Visual Sim SSIM: 66.05% | Pearson: 0.8595 | Top10 IoU: 0.7399 | Centroid Dist: 0.4984
+Board 51 | IoU: 0.6674 | Dice: 0.8005 | Precision: 0.7374 | Recall: 0.8755 | MSE: 0.0609 | MAE: 0.1181 | W-MAE: 0.1644 | Pixel Sim: 88.19% | Visual Sim SSIM: 68.98% | Pearson: 0.8589 | Top10 IoU: 0.1514 | Centroid Dist: 5.0831
+Board 52 | IoU: 0.6809 | Dice: 0.8101 | Precision: 0.7077 | Recall: 0.9473 | MSE: 0.0454 | MAE: 0.1048 | W-MAE: 0.1345 | Pixel Sim: 89.52% | Visual Sim SSIM: 73.21% | Pearson: 0.9154 | Top10 IoU: 0.1359 | Centroid Dist: 2.1362
+
+Fold 2 Average:
+Average IoU: 0.5904
+Average Dice/F1: 0.7228
+Average Precision: 0.6586
+Average Recall: 0.8076
+Average MSE: 0.0738
+Average MAE: 0.1436
+Average Weighted MAE: 0.1923
+Average Pixel Similarity: 85.64%
+Average Visual Similarity SSIM: 59.62%
+Average Pearson Corr: 0.7472
+Average Top-10% Hotspot IoU: 0.4049
+Average Centroid Distance: 4.2008
+
+---------- FOLD 3 ----------
+Board 47 | IoU: 0.6411 | Dice: 0.7813 | Precision: 0.6537 | Recall: 0.9709 | MSE: 0.0430 | MAE: 0.1365 | W-MAE: 0.1257 | Pixel Sim: 86.35% | Visual Sim SSIM: 67.81% | Pearson: 0.8372 | Top10 IoU: 0.1833 | Centroid Dist: 2.9785
+Board 48 | IoU: 0.4346 | Dice: 0.6059 | Precision: 0.5136 | Recall: 0.7387 | MSE: 0.1155 | MAE: 0.2624 | W-MAE: 0.2932 | Pixel Sim: 73.76% | Visual Sim SSIM: 15.93% | Pearson: 0.4965 | Top10 IoU: 0.1323 | Centroid Dist: 1.4647
+Board 49 | IoU: 0.6184 | Dice: 0.7642 | Precision: 0.6537 | Recall: 0.9197 | MSE: 0.0591 | MAE: 0.1619 | W-MAE: 0.1702 | Pixel Sim: 83.81% | Visual Sim SSIM: 60.30% | Pearson: 0.7863 | Top10 IoU: 0.1950 | Centroid Dist: 2.2281
+Board 50 | IoU: 0.5797 | Dice: 0.7340 | Precision: 0.6091 | Recall: 0.9233 | MSE: 0.0694 | MAE: 0.1635 | W-MAE: 0.1845 | Pixel Sim: 83.65% | Visual Sim SSIM: 59.88% | Pearson: 0.8354 | Top10 IoU: 0.1351 | Centroid Dist: 3.0418
+Board 51 | IoU: 0.6333 | Dice: 0.7755 | Precision: 0.6918 | Recall: 0.8822 | MSE: 0.0611 | MAE: 0.1511 | W-MAE: 0.1745 | Pixel Sim: 84.89% | Visual Sim SSIM: 62.22% | Pearson: 0.8159 | Top10 IoU: 0.1399 | Centroid Dist: 7.3895
+Board 52 | IoU: 0.3351 | Dice: 0.5020 | Precision: 0.3914 | Recall: 0.6996 | MSE: 0.1432 | MAE: 0.3008 | W-MAE: 0.3714 | Pixel Sim: 69.92% | Visual Sim SSIM: 14.37% | Pearson: 0.2794 | Top10 IoU: 0.1402 | Centroid Dist: 2.8104
+
+Fold 3 Average:
+Average IoU: 0.5404
+Average Dice/F1: 0.6938
+Average Precision: 0.5855
+Average Recall: 0.8557
+Average MSE: 0.0819
+Average MAE: 0.1960
+Average Weighted MAE: 0.2199
+Average Pixel Similarity: 80.40%
+Average Visual Similarity SSIM: 46.75%
+Average Pearson Corr: 0.6751
+Average Top-10% Hotspot IoU: 0.1543
+Average Centroid Distance: 3.3188
+
+---------- FOLD 4 ----------
+Board 47 | IoU: 0.5688 | Dice: 0.7251 | Precision: 0.5696 | Recall: 0.9976 | MSE: 0.0657 | MAE: 0.1938 | W-MAE: 0.1561 | Pixel Sim: 80.62% | Visual Sim SSIM: 57.75% | Pearson: 0.8109 | Top10 IoU: 0.1585 | Centroid Dist: 2.2572
+Board 48 | IoU: 0.6419 | Dice: 0.7819 | Precision: 0.6643 | Recall: 0.9502 | MSE: 0.0792 | MAE: 0.1967 | W-MAE: 0.1730 | Pixel Sim: 80.33% | Visual Sim SSIM: 48.69% | Pearson: 0.7730 | Top10 IoU: 0.2066 | Centroid Dist: 5.2141
+Board 49 | IoU: 0.5095 | Dice: 0.6751 | Precision: 0.5204 | Recall: 0.9605 | MSE: 0.0798 | MAE: 0.2173 | W-MAE: 0.1906 | Pixel Sim: 78.27% | Visual Sim SSIM: 49.81% | Pearson: 0.6338 | Top10 IoU: 0.1660 | Centroid Dist: 1.0658
+Board 50 | IoU: 0.4733 | Dice: 0.6425 | Precision: 0.4825 | Recall: 0.9612 | MSE: 0.0967 | MAE: 0.2329 | W-MAE: 0.2217 | Pixel Sim: 76.71% | Visual Sim SSIM: 49.64% | Pearson: 0.7366 | Top10 IoU: 0.1465 | Centroid Dist: 7.9702
+Board 51 | IoU: 0.3452 | Dice: 0.5133 | Precision: 0.3679 | Recall: 0.8487 | MSE: 0.1559 | MAE: 0.3370 | W-MAE: 0.3364 | Pixel Sim: 66.30% | Visual Sim SSIM: 10.12% | Pearson: 0.3302 | Top10 IoU: 0.1345 | Centroid Dist: 3.8851
+Board 52 | IoU: 0.4704 | Dice: 0.6398 | Precision: 0.4757 | Recall: 0.9769 | MSE: 0.0856 | MAE: 0.2239 | W-MAE: 0.1939 | Pixel Sim: 77.61% | Visual Sim SSIM: 49.02% | Pearson: 0.7386 | Top10 IoU: 0.1519 | Centroid Dist: 2.1063
+
+Fold 4 Average:
+Average IoU: 0.5015
+Average Dice/F1: 0.6629
+Average Precision: 0.5134
+Average Recall: 0.9492
+Average MSE: 0.0938
+Average MAE: 0.2336
+Average Weighted MAE: 0.2120
+Average Pixel Similarity: 76.64%
+Average Visual Similarity SSIM: 44.17%
+Average Pearson Corr: 0.6705
+Average Top-10% Hotspot IoU: 0.1607
+Average Centroid Distance: 3.7498
+
+---------- FOLD 5 ----------
+Board 47 | IoU: 0.6926 | Dice: 0.8184 | Precision: 0.7145 | Recall: 0.9577 | MSE: 0.0389 | MAE: 0.1171 | W-MAE: 0.1232 | Pixel Sim: 88.29% | Visual Sim SSIM: 71.68% | Pearson: 0.8728 | Top10 IoU: 0.1701 | Centroid Dist: 0.4494
+Board 48 | IoU: 0.6590 | Dice: 0.7944 | Precision: 0.7261 | Recall: 0.8770 | MSE: 0.0777 | MAE: 0.1540 | W-MAE: 0.1695 | Pixel Sim: 84.60% | Visual Sim SSIM: 59.16% | Pearson: 0.7755 | Top10 IoU: 0.2350 | Centroid Dist: 2.1230
+Board 49 | IoU: 0.6219 | Dice: 0.7669 | Precision: 0.6812 | Recall: 0.8771 | MSE: 0.0559 | MAE: 0.1418 | W-MAE: 0.1689 | Pixel Sim: 85.82% | Visual Sim SSIM: 63.81% | Pearson: 0.8004 | Top10 IoU: 0.1927 | Centroid Dist: 2.3062
+Board 50 | IoU: 0.5992 | Dice: 0.7494 | Precision: 0.6447 | Recall: 0.8946 | MSE: 0.0701 | MAE: 0.1462 | W-MAE: 0.1857 | Pixel Sim: 85.38% | Visual Sim SSIM: 62.50% | Pearson: 0.7449 | Top10 IoU: 0.1848 | Centroid Dist: 0.6480
+Board 51 | IoU: 0.6433 | Dice: 0.7829 | Precision: 0.7089 | Recall: 0.8742 | MSE: 0.0597 | MAE: 0.1319 | W-MAE: 0.1716 | Pixel Sim: 86.81% | Visual Sim SSIM: 66.37% | Pearson: 0.8197 | Top10 IoU: 0.1521 | Centroid Dist: 5.7538
+Board 52 | IoU: 0.6538 | Dice: 0.7907 | Precision: 0.6775 | Recall: 0.9493 | MSE: 0.0486 | MAE: 0.1240 | W-MAE: 0.1488 | Pixel Sim: 87.60% | Visual Sim SSIM: 68.92% | Pearson: 0.8364 | Top10 IoU: 0.1901 | Centroid Dist: 1.8929
+
+Fold 5 Average:
+Average IoU: 0.6450
+Average Dice/F1: 0.7838
+Average Precision: 0.6921
+Average Recall: 0.9050
+Average MSE: 0.0585
+Average MAE: 0.1358
+Average Weighted MAE: 0.1613
+Average Pixel Similarity: 86.42%
+Average Visual Similarity SSIM: 65.41%
+Average Pearson Corr: 0.8083
+Average Top-10% Hotspot IoU: 0.1875
+Average Centroid Distance: 2.1956
+
+==============================
+FINAL AVERAGES BY FOLD
+==============================
+
+Fold 1:
+Average IoU: 0.5022
+Average Dice/F1: 0.6592
+Average Precision: 0.5307
+Average Recall: 0.8796
+Average MSE: 0.0952
+Average MAE: 0.2246
+Average Weighted MAE: 0.2301
+Average Pixel Similarity: 77.54%
+Average Visual Similarity SSIM: 41.85%
+Average Pearson Corr: 0.6024
+Average Top-10% Hotspot IoU: 0.1623
+Average Centroid Distance: 4.9330
+
+Fold 2:
+Average IoU: 0.5904
+Average Dice/F1: 0.7228
+Average Precision: 0.6586
+Average Recall: 0.8076
+Average MSE: 0.0738
+Average MAE: 0.1436
+Average Weighted MAE: 0.1923
+Average Pixel Similarity: 85.64%
+Average Visual Similarity SSIM: 59.62%
+Average Pearson Corr: 0.7472
+Average Top-10% Hotspot IoU: 0.4049
+Average Centroid Distance: 4.2008
+
+Fold 3:
+Average IoU: 0.5404
+Average Dice/F1: 0.6938
+Average Precision: 0.5855
+Average Recall: 0.8557
+Average MSE: 0.0819
+Average MAE: 0.1960
+Average Weighted MAE: 0.2199
+Average Pixel Similarity: 80.40%
+Average Visual Similarity SSIM: 46.75%
+Average Pearson Corr: 0.6751
+Average Top-10% Hotspot IoU: 0.1543
+Average Centroid Distance: 3.3188
+
+Fold 4:
+Average IoU: 0.5015
+Average Dice/F1: 0.6629
+Average Precision: 0.5134
+Average Recall: 0.9492
+Average MSE: 0.0938
+Average MAE: 0.2336
+Average Weighted MAE: 0.2120
+Average Pixel Similarity: 76.64%
+Average Visual Similarity SSIM: 44.17%
+Average Pearson Corr: 0.6705
+Average Top-10% Hotspot IoU: 0.1607
+Average Centroid Distance: 3.7498
+
+Fold 5:
+Average IoU: 0.6450
+Average Dice/F1: 0.7838
+Average Precision: 0.6921
+Average Recall: 0.9050
+Average MSE: 0.0585
+Average MAE: 0.1358
+Average Weighted MAE: 0.1613
+Average Pixel Similarity: 86.42%
+Average Visual Similarity SSIM: 65.41%
+Average Pearson Corr: 0.8083
+Average Top-10% Hotspot IoU: 0.1875
+Average Centroid Distance: 2.1956
+
+==============================
+OVERALL AVERAGE ACROSS ALL FOLDS AND BOARDS
+==============================
+
+Overall:
+Average IoU: 0.5559
+Average Dice/F1: 0.7045
+Average Precision: 0.5961
+Average Recall: 0.8794
+Average MSE: 0.0806
+Average MAE: 0.1867
+Average Weighted MAE: 0.2031
+Average Pixel Similarity: 81.33%
+Average Visual Similarity SSIM: 51.56%
+Average Pearson Corr: 0.7007
+Average Top-10% Hotspot IoU: 0.2139
+Average Centroid Distance: 3.6796
+
+Best result by IoU:
+Board 47 Fold 2 | IoU: 0.7171 | Dice: 0.8352 | Pixel Sim: 89.66% | Visual Sim SSIM: 73.09%
+
+Worst result by IoU:
+Board 49 Fold 2 | IoU: 0.1985 | Dice: 0.3312 | Pixel Sim: 73.77% | Visual Sim SSIM: 15.33%
